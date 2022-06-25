@@ -36,7 +36,7 @@ http://127.0.0.1:8000
 
 ### How to use
 ```bash
-Register and account then login to add some todo list
+Register/login to add some todo list
 Password length should be min of 8 
 ```
 
