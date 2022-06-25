@@ -1,5 +1,5 @@
 <div align="center">
-<img width="30%" src="https://raw.githubusercontent.com/binelias/to-do-list_Django/main/To%20do%20list%20pics/Main%20task%20overview.PNG"/>
+<img width="50%" src="https://raw.githubusercontent.com/binelias/to-do-list_Django/main/To%20do%20list%20pics/Main%20task%20overview.PNG"/>
 
 # To do list using Pyscript Django
 
