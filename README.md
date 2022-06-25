@@ -43,9 +43,9 @@ Password length should be min of 8
 ### Features
 ```bash
 Create
-		+
+	+
 Read and Update
-		click the task name
+	click the task name
 Delete
-		×
+	×
 ```
